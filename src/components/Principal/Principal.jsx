@@ -8,7 +8,7 @@ const Principal=()=>{
                 <div className="text-animate">
                     <h3>Frontend Developer</h3>
                 </div>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi provident officia, explicabo illum fugiat ullam. Impedit, aperiam! Totam labore incidunt in, placeat ex a? Repudiandae molestiae accusantium iusto ut?</p>
+                <p>Hello, my name is Francisco Achard and I am 21 years old. I am a Frontend developer with experience in the following technologies: JavaScript, HTML, CSS, Node, React, Redux, SQL and Typescript. I am also familiar with the Vite development tool.</p>
                 <div className="btn-box">
                     <a href="#" className="btn">Hire me</a>
                     <a href="#" className="btn">Let's Talk</a>
@@ -19,7 +19,7 @@ const Principal=()=>{
                 <a href="https://www.linkedin.com/in/francisco-achard-9862641b3/"><box-icon name='linkedin' type='logo' ></box-icon></a>
                 <a href="https://www.instagram.com/_fran_achard/"><box-icon name='instagram-alt' type='logo' ></box-icon></a>
             </div>
-            <img className="foto" src="/public/assets/perfil.jpeg"></img>
+            <img className="foto" src="/public/assets/Captura de pantalla 2023-04-30 102717.png"></img>
         </section>
     )
 }
