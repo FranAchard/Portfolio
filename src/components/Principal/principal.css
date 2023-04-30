@@ -6,7 +6,7 @@ section{
     display: flex;
     align-items:center;
     padding: 0 9%;
-    margin: 20rem 2rem;
+    margin: 10rem 2rem;
 }
 .home-content{
     max-width:60rem;
@@ -82,7 +82,7 @@ section{
 }
 .home-sci{
     position: absolute;
-    bottom: -13rem;
+    bottom:5rem;
     width: 170px;
     display: flex;
     justify-content: space-between;
@@ -117,7 +117,7 @@ section{
     width: 100%;
 }
 .foto{
-    margin: -10rem 35rem;
+    margin: 0 35rem;
     width:500rem;
     height:500px;
 }
