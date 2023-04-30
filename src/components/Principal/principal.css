@@ -117,7 +117,19 @@ section{
     width: 100%;
 }
 .foto{
-    margin: 0 35rem;
-    width:500rem;
+    margin: 15rem 15rem;
     height:500px;
+}
+.img-hover{
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 45%;
+    height: 100%;
+    background: transparent;
+    border: 2px solid red;
+    transition: 3s;
+}
+.img-hover:hover{
+    background-color: aqua;
 }
