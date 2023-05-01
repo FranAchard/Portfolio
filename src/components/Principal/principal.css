@@ -127,9 +127,9 @@ section{
     width: 45%;
     height: 100%;
     background: transparent;
-    border: 2px solid red;
     transition: 3s;
 }
 .img-hover:hover{
-    background-color: aqua;
+    background-color: var(--bg-color);
+    opacity: 5;
 }

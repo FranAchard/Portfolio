@@ -8,7 +8,7 @@ const Header = () => {
             <box-icon name='menu' id="menu-icon"></box-icon>
             <nav className="navBar">
                 <a href="#home" className="active">Home</a>
-                <a href="#about">About</a>
+                <a href="http://localhost:3000/about">About</a>
                 <a href="#education">Education</a>
                 <a href="#skills">Skills</a>
                 <a href="#contact">Contact</a>
