@@ -48,8 +48,7 @@ body{
     margin-left: 3.5rem;
     transition: .3s;
 }
-.navBar a:hover,
-.navBar a.active{
+.navBar a:hover{
     color: var(--main-color);
 }
 #menu-icon{

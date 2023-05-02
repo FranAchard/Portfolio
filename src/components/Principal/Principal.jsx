@@ -20,7 +20,7 @@ const Principal=()=>{
                 <a href="https://www.instagram.com/_fran_achard/"><box-icon name='instagram-alt' type='logo' ></box-icon></a>
             </div>
             <div className="img-hover">
-            <img className="foto" src="/public/assets/Captura de pantalla 2023-04-30 102717.png"></img>
+            <img className="foto" src="/public/assets/Home.png"></img>
             </div>
         </section>
     )
