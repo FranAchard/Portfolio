@@ -5,7 +5,7 @@ const Education =()=>{
         <div>
             <Header/>
             <div>
-                Hola
+                <h1>soy estudiante</h1>
             </div>
         </div>
     )
