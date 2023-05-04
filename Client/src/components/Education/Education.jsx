@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "../Header/Header";
+import './education.css'
 const Education =()=>{
     return (
         <div>
@@ -22,13 +23,15 @@ const Education =()=>{
                                     <div className="year"><box-icon name='calendar' type='solid' ></box-icon>2022 - 2023</div>
                                     <h3>FreeCodeCamp</h3>
                                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum perspiciatis culpa praesentium. Voluptate, nisi at amet, velit a omnis neque architecto quisquam reiciendis ratione eum consectetur quo officiis mollitia odit. </p>
+                                    <img className="titulo-img" src="/public/assets/titulo-free.png" alt="Free-code-camp"></img>
                                 </div>
                             </div>
                             <div className="education-content">
                                 <div className="content">
                                     <div className="year"><box-icon name='calendar' type='solid'></box-icon>2022</div>
-                                    <h3>Centro de Formación Profesional 421 UOM La Plata</h3>
+                                    <h3>Curso de formacion profesional de Programador Web</h3>
                                     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatum perspiciatis culpa praesentium. Voluptate, nisi at amet, velit a omnis neque architecto quisquam reiciendis ratione eum consectetur quo officiis mollitia odit. </p>
+                                    <img className="titulo-img" src="/public/assets/curso-uom.png"></img>
                                 </div>
                             </div>
                         </div>
