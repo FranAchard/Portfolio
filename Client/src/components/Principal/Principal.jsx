@@ -1,5 +1,6 @@
 import React from "react";
 import "./principal.css"
+import Perfil from "/public/assets/Home.png"
 const Principal=()=>{
     return (
         <section className="home" id="home">
@@ -20,7 +21,7 @@ const Principal=()=>{
                 <a href="https://www.instagram.com/_fran_achard/"><box-icon name='instagram-alt' type='logo' ></box-icon></a>
             </div>
             <div className="img-hover">
-            <img className="foto" src="/public/assets/Home.png"></img>
+            <img className="foto" src={Perfil}></img>
             </div>
         </section>
     )
