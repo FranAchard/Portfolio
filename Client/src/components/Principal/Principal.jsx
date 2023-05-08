@@ -1,6 +1,6 @@
 import React from "react";
 import "./principal.css"
-import Perfil from "/public/assets/Home.png"
+import Perfil from '../../../public/assets/Home.png';
 const Principal=()=>{
     return (
         <section className="home" id="home">
