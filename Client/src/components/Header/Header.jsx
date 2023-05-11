@@ -11,7 +11,7 @@ const Header = () => {
                 <a href="http://localhost:3000/about" className="active">About</a>
                 <a href="http://localhost:3000/education" className="active">Education</a>
                 <a href="http://localhost:3000/skills" className="active">Skills</a>
-                <a href="#contact" className="active">Contact</a>
+                <a href="http://localhost:3000/contact" className="active">Contact</a>
             </nav>
         </header>
     )
