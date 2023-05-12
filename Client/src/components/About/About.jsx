@@ -24,7 +24,7 @@ In my portfolio you will find some of my most recent work, where I have used my 
 
 Thanks for visiting my portfolio!</p>
                 <div className="btn-box btns">
-                    <a href="#" className="btn">Read More</a>
+                    <a href="http://localhost:3000/education" className="btn">Read More</a>
                 </div>
             </div>
         </div>

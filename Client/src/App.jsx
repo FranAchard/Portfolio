@@ -9,6 +9,7 @@ function App() {
     let header=document.querySelector('header')
     header.classList.toggle('stycky', window.scrollY > 100);
   }
+
   return (
     <div className="app">
       <Routes>
