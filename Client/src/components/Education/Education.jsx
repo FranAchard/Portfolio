@@ -15,7 +15,13 @@ const Education =()=>{
                                 <div className="content">
                                     <div className="year"><box-icon name='calendar' type='solid' ></box-icon>2022 - 2023</div>
                                     <h3>SoyHenry</h3>
-                                    <p></p>
+                                    <p>During the six months of this Full Stack Developer Bootcamp, I had the opportunity to acquire key skills for web development. Through the intensive training program, I learned how to build complete web applications, from creating the user interface to programming the server logic and database management.
+
+In particular, the program allowed me to delve into key areas of web development, such as Front End, Back End, JavaScript, HTML, CSS, Node, React, Redux and SQL. I learned how to design and develop attractive and functional user interfaces using technologies such as HTML and CSS, and how to program server-side logic using JavaScript and Node.
+
+In addition, I also became familiar with popular client-side technologies, such as React and Redux, which allowed me to build modern and highly interactive web applications. Finally, I acquired SQL skills, which allowed me to effectively manage and administer databases.
+
+In summary, this Full Stack Developer Bootcamp gave me a complete and solid training in web development, which allowed me to be prepared to face the challenges of today's working world in this area.</p>
                                 </div>
                             </div>
                             <div className="education-content">
