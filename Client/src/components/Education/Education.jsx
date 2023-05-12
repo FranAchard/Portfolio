@@ -31,7 +31,7 @@ In summary, this Full Stack Developer Bootcamp gave me a complete and solid trai
                                     <p>The course I took was a very enriching experience, with a duration of 300 hours. During this time, I had the opportunity to reinforce my knowledge in the field of web development and to learn new tools and techniques to improve my work as a programmer.
 
                                         The course was focused on learning the fundamental sciences of web development, such as HTML and CSS. Through practice and the use of specialized tools, I learned to create and design web pages effectively, optimizing their appearance and functionality.</p>
-                                    <img className="titulo-img" src="/public/assets/titulo-free.png" alt="Free-code-camp"></img>
+                                    <img className="titulo-img" src="./assets/titulo-free.png" alt="Free-code-camp"></img>
                                 </div>
                             </div>
                             <div className="education-content">

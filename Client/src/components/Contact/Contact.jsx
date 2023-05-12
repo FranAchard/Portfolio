@@ -35,7 +35,7 @@ const Contacto =()=>{
                     <div className="btn-box btns">
                         <button type="submit" className="btn">Submit</button>
                     </div>
-                    <input type="hidden" name="_next" value="http://localhost:3000/" />
+                    <input type="hidden" name="_next" value="https://portfolio-three-amber-54.vercel.app" />
                     <input type="hidden" name="_captcha" value="false" />
                 </form>
             </div>

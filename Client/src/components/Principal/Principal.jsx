@@ -10,8 +10,8 @@ const Principal=()=>{
                 </div>
                 <p>Hello, my name is Francisco Achard and I am 21 years old. I am a Frontend developer with experience in the following technologies: JavaScript, HTML, CSS, Node, React, Redux, SQL and Typescript. I am also familiar with the Vite development tool.</p>
                 <div className="btn-box">
-                    <a href="http://localhost:3000/about" className="btn">Hire me</a>
-                    <a href="http://localhost:3000/contact" className="btn">Let's Talk</a>
+                    <a href="https://portfolio-three-amber-54.vercel.app/about" className="btn">Hire me</a>
+                    <a href="https://portfolio-three-amber-54.vercel.app/contact" className="btn">Let's Talk</a>
                 </div>
             </div>
             <div className="home-sci">
