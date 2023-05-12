@@ -1,6 +1,5 @@
 import React from "react";
 import './about.css';
-import '../Header/Header'
 import Header from "../Header/Header";
 const About = () => {
     return (
@@ -9,7 +8,7 @@ const About = () => {
         <div className="about" id="about">
             <h2 className="heading">About <span>Me</span></h2>
             <div className="about-img">
-                <img src="/public/assets/About.png" />
+                <img src="./assets/About.png" />
                     <span className="circle-spin"></span>
             </div>
             <div className="about-content">
@@ -24,7 +23,7 @@ In my portfolio you will find some of my most recent work, where I have used my 
 
 Thanks for visiting my portfolio!</p>
                 <div className="btn-box btns">
-                    <a href="http://localhost:3000/education" className="btn">Read More</a>
+                    <a href="https://portfolio-three-amber-54.vercel.app/education" className="btn">Read More</a>
                 </div>
             </div>
         </div>
