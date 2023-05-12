@@ -5,6 +5,10 @@ import Education from "./components/Education/Education";
 import Skills from "./components/Skills/Skills";
 import Contacto from "./components/Contact/Contact";
 function App() {
+  window.onscroll=()=>{
+    let header=document.querySelector('header')
+    header.classList.toggle('stycky', window.scrollY > 100);
+  }
   return (
     <div className="app">
       <Routes>
